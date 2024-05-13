@@ -177,9 +177,9 @@ footer {
     background-color: #f8f8f8;
 }
 
-footer > img {
+footer img {
 	vertical-align:middle;
-	margin: 5px 0px;
+	margin: 15px 0px;
 }
 
 p.copyright {
